@@ -1,1 +1,1 @@
-# broxt-bot-public
+# BROXT Discord Bot
