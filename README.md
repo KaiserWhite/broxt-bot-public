@@ -13,3 +13,5 @@
 | `/distance` | Slash | Roll AD&D 1e encounter distance. | `DISTANCE_ROLE_IDS` |
 | `/dunder` | Slash | Post a random image from `DUNDER_IMAGE_DIR`. | `DUNDER_ROLE_IDS` |
 | `r <formula>` | Chat message | Roll dice (`2d6`, `1d20+5`, `4d6k3`, `m1`-`m4`). | `DICE_ROLE_IDS` |
+
+ **"ROLE_IDS" defaulted to @everyone **
