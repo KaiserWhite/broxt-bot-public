@@ -1,4 +1,7 @@
 # BROXT Discord Bot
+
+BroXT Bot Invite Link: https://discord.com/channels/1430668121366069390/1525537876559921303/1525538021905141820
+
 ## Slash Commands
 ### Quick Reference
 
